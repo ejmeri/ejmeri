@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-I'm Elmeri Silva, and I'm a Software Developer Intern at @globallpoints and I've been working in tech since 2015. I'm from Brazil, São Paulo.
+I'm Elmeri Silva, and I'm a Software Developer Intern at [@globallpoints](https://github.com/globallpoints) and I've been working in tech since 2015. I'm from Brazil, São Paulo.
 
 ## ⚡ Technologies
 
