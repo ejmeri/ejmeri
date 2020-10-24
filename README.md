@@ -3,6 +3,8 @@
 
 I'm Elmeri Silva, and I'm a Software Developer Intern at [@globallpoints](https://github.com/globallpoints) and I've been working in tech since 2015. I'm from Brazil, São Paulo.
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ejmeri.git)
+
 ## ⚡ Technologies
 
 These are some of the technologies and tools that I work with:
