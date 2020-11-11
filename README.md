@@ -26,6 +26,3 @@ These are some of the technologies and tools that I work with:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ejmeri.git)
