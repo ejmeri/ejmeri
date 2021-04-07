@@ -7,7 +7,7 @@ I'm Elmeri Silva, and I'm a Software Developer at [@globallpoints](https://githu
 
 These are some of the technologies and tools that I work with:
 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-178600?style=flat-square&logo=windows)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
