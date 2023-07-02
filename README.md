@@ -21,18 +21,11 @@ These are some of the technologies and tools that I work with:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-<!-- <p align="center">
+<p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ejmeri&hide=css,php,html,scss&exclude_repo=tech-game,run-tech&langs_count=7&layout=compact"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ejmeri&hide=css,php,html,scss&langs_count=4&layout=pie"
     />
-  </a> -->
-<!--  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=ejmeri&show_icons=true&count_private=true&hide=contribs,prs"
-    />
-  </a> -->
+  </a>
 </p>
