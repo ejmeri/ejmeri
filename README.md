@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-I'm Elmeri Moreno, and I'm a Specialist Systems at [VR Beneficios](https://www.vr.com.br/) and I've been working in tech since 2015. I'm from Brazil, São Paulo.
+I'm Elmeri Moreno, and I'm a Software Enginner and I've been working in tech since 2015. I'm from Brazil, São Paulo.
 
 ## ⚡ Technologies
 
