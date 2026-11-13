@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Elmeri's GitHub Stats, Rank: B-</title>
-        <desc id="descId">Total Commits  : 3001, Total PRs: 39</desc>
+        <desc id="descId">Total Commits  : 3005, Total PRs: 41</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 173.8999535863716;
+        stroke-dashoffset: 172.8848786252869;
       }
     }
   
@@ -166,7 +166,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >39</text>
+      >41</text>
     </g>
   </g>
     </svg>
